@@ -1,8 +1,5 @@
 # Plate Break
-
-Plate break is an android app used t help destress one in frustrating moments. 
-From time to time, we all encounter moments that make us want to scream.
-Simple shake your phone to drop the plate or use your finger to throw the plate across the screen.
+Simply shake your phone to drop the plate or use your finger to throw the plate across the screen.
  
 <img src="https://github.com/SarahLizDettloff/PlateBreak/blob/master/PlateBreakPreview.gif?raw=true" alt="Plate Break Preview">
 
